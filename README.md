@@ -1,6 +1,10 @@
 ## 👇 RECENT POST 
 ![Alt text here](https://nodejs-medium-fetcher.vercel.app/?username=woon4910&limit=6&responseType=svg)
 
+
+thanks to @atakde
+ref: https://github.com/atakde/nodejs-medium-fetcher
+
 <!--
 **DONG-WOON/DONG-WOON** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
